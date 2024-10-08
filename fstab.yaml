@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p141961-e1455228.adobeaemcloud.com/bin/franklin.delivery/ajaniadobe/xwalk-site/main"
+    url: "https://author-p142404-e1461341.adobeaemcloud.com/bin/franklin.delivery/ajaniadobe/xwalk-site/main"
     type: "markup"
     suffix: ".html"
