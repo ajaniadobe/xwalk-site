@@ -1,5 +1,6 @@
 mountpoints:
-  /:
-    url: "https://author-p142404-e1461341.adobeaemcloud.com/bin/franklin.delivery/ajaniadobe/xwalk-site/main"
-    type: "markup"
-    suffix: ".html"
+  /: https://adobe.sharepoint.com/:f:/r/sites/AEMNAMExpertSCs/Shared%20Documents/Web%20Foundation%20Training/ajani/EDS%20Test?csf=1&web=1&e=WdP2Eb
+  # /:
+  #   url: "https://author-p142404-e1461341.adobeaemcloud.com/bin/franklin.delivery/ajaniadobe/xwalk-site/main"
+  #   type: "markup"
+  #   suffix: ".html"
